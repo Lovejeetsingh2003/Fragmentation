@@ -12,6 +12,7 @@
         android:layout_height="match_parent"
         android:textColor="@color/black"
         android:textSize="30sp"
+        android:id="@+id/tvName"
         android:textStyle="bold"
         android:text="@string/hello_blank_fragment" />
 
