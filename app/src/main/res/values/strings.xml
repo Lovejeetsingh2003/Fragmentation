@@ -1,7 +1,12 @@
 <resources>
     <string name="app_name">Fragmentation</string>
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="tvMain">Main Activity</string>
-    <string name="btnFragment">Fragments</string>
+    <string name="btnFragment">Go To Fragments</string>
+    <string name="btnActivity">Go To 2nd Fragment</string>
+    <string name="tvFragment">Fragment Page</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btnNavigation">Navigation</string>
+    <string name="btnHome">Home</string>
 </resources>

@@ -4,12 +4,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:id="@+id/secondFragment"
     android:gravity="center"
-    android:background="@color/white"
-    tools:context=".FirstFragment">
+    tools:context=".SecondFragment">
 
     <!-- TODO: Update blank fragment layout -->
-
     <TextView
         android:id="@+id/tvName"
         android:layout_width="match_parent"
@@ -24,7 +23,14 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/btnActivity"
-        android:text="@string/btnActivity"
+        android:id="@+id/btnNavigation"
+        android:text="@string/btnNavigation"
         />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnHome"
+        android:text="@string/btnHome"
+        />
+
 </LinearLayout>
